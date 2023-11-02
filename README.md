@@ -1,3 +1,9 @@
+![image](https://github.com/christopherwahlstrom/nextjsTodolist/assets/83230387/fda8c151-3eed-4156-9dac-e86addcde855)
+
+![image](https://github.com/christopherwahlstrom/nextjsTodolist/assets/83230387/ff9abeed-9593-4423-9c65-29905df10653)
+
+
+
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
